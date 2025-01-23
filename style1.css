@@ -1,8 +1,10 @@
 form{
-     background-color: #ffffff;
-    width: 40%;
-    padding: 100px;
-    margin: 0 auto;
+     background-color: white;
+    width: 100%;
+padding: 160px;
+    margin-right: 90px;
+margin-bottom: 90px;
+    margin-top: 90px;
     box-shadow: 12px 12px 12px gray;
 }
 
@@ -20,7 +22,7 @@ input[type=text],input[type=email]
     height: 40px;
     border-radius: 10px;
     border: none;
-    margin-top: 20px;
+    margin-outside: 10px;
     box-shadow: 4px 4px 12px rgb(170, 174, 174);
 
 }
